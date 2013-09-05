@@ -50,6 +50,7 @@
     <Compile Include="Questao03\Retangulo.cs" />
     <Compile Include="Questao04\Pessoa.cs" />
     <Compile Include="Questao05\ContaCorrente.cs" />
+    <Compile Include="Questao06\TV.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

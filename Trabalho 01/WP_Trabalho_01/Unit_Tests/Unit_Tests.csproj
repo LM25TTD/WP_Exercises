@@ -51,6 +51,7 @@
     <Compile Include="Questao_03_Retangulo_Test.cs" />
     <Compile Include="Questao_04_Pessoa_Test.cs" />
     <Compile Include="Questao_05_Conta_Corrente_Test.cs" />
+    <Compile Include="Questao_06_TV_Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WP_Trabalho_01\WP_Trabalho_01.csproj">
