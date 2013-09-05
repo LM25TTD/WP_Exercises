@@ -48,6 +48,9 @@
     <Compile Include="Questao_01_Bola_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Questao_02_Quadrado_Test.cs" />
+    <Compile Include="Questao_03_Retangulo_Test.cs" />
+    <Compile Include="Questao_04_Pessoa_Test.cs" />
+    <Compile Include="Questao_05_Conta_Corrente_Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WP_Trabalho_01\WP_Trabalho_01.csproj">

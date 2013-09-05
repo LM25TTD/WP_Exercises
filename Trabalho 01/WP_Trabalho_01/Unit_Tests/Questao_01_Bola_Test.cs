@@ -11,7 +11,7 @@ namespace Unit_Tests
     public class Questao_01_Bola_Test
     {
         [TestMethod]
-        public void verifyBolaClass()
+        public void testColor_Bola()
         {
             Bola bola = new Bola();
             

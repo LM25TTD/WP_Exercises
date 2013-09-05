@@ -7,9 +7,9 @@ namespace WP_Trabalho_01.Questao01
 {
     public class Bola
     {
-        private string _cor;
-        private float _circunferencia;
-        private string _material;
+        private string _cor="";
+        private float _circunferencia=0.0f;
+        private string _material="";
 
         public string mostraCor()
         {

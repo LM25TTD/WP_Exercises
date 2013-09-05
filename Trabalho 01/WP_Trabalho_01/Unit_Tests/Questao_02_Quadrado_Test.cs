@@ -11,7 +11,7 @@ namespace Unit_Tests
     public class Questao_02_Quadrado_Test
     {
         [TestMethod]
-        public void testaGetSet()
+        public void testGetSet_Quadrado()
         {
             Quadrado quadrado = new Quadrado();
             Assert.AreEqual(0.0f, quadrado.retornaValorLado());
@@ -21,7 +21,7 @@ namespace Unit_Tests
         }
 
         [TestMethod]
-        public void testAreaQuadrado()
+        public void testArea_Quadrado()
         {
             Quadrado quadrado = new Quadrado();
             quadrado.mudarValorLado(3.0f);
