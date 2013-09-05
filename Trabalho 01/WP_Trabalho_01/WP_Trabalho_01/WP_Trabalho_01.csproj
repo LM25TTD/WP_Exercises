@@ -46,7 +46,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Questao01\Bola.cs" />
-    <Compile Include="Questao02\Class1.cs" />
+    <Compile Include="Questao02\Quadrado.cs" />
+    <Compile Include="Questao03\Retangulo.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
